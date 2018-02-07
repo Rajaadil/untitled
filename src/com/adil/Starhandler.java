@@ -6,6 +6,7 @@ public class Starhandler {
 
             for (int i = 1; i <= 3; i++)
             {
+                //jk
                 for (int j = 4; j >= i; j--)
                 {
 
